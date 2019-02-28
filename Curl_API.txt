@@ -1,0 +1,2 @@
+When dealing with the GET you get a representations of the repository. 
+While you can post to the URL's. 
